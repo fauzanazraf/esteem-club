@@ -6,4 +6,6 @@
 
 html {
   font-family: 'Wood Works 1974';
+  background: #822821 url('../static/bg.jpg') no-repeat;
+  background-size: cover;
 }
