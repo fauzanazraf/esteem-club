@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Wood Works 1974';
+  src: local('Wood Works 1974'),
+    url(../static/Wood-Works-1974.otf) format('opentype');
+}
+
+html {
+  font-family: 'Wood Works 1974';
+}
