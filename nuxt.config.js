@@ -2,10 +2,10 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
-  // github page repo name
-  router: {
-    base: '/esteem-club/',
-  },
+  // // github page repo name
+  // router: {
+  //   base: '/esteem-club/',
+  // },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
