@@ -33,8 +33,8 @@
       <div class="container mx-auto py-20">
         <div class="grid grid-cols-2 grid-flow-col">
           <div>
-            <h1 class="font-semibold text-6xl mb-11">100+ collectible NFTs</h1>
-            <p class="text-lg">
+            <h1 class="font-semibold text-3xl md:text-6xl mb-11">100+ collectible NFTs</h1>
+            <p class="text-base md:text-lg">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Labore
               et dolore magna aliqua.
