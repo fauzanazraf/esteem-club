@@ -1,14 +1,5 @@
-@font-face {
-  font-family: 'Wood Works 1974';
-  src: local('Wood Works 1974'),
-    url(../font/Wood-Works-1974.otf) format('opentype');
-}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 html {
-  margin: 0;
-  padding: 0;
-  font-family: 'Wood Works 1974';
-  background: #822821 url('../../static/bg.jpg') no-repeat;
-  background-size: cover;
-  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
 }

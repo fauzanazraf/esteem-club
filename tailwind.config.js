@@ -12,10 +12,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-2': "url('static/hero-bg-2.svg')",
-        'hero-3': "url('static/hero-bg-3.svg')",
-      }
-    }
+        hero: "url('static/hero-bg.png'), linear-gradient(66.99deg, #EFE8D9 0%, rgba(192, 213, 218, 0.63) 99.51%)",
+      },
+    },
   },
   variants: {
     extend: {},
