@@ -391,7 +391,7 @@
       >
         © 2022 Copyright
         <a href="https://esteem.club/" class="text-gray-800">Esteem Club.</a>
-        Under
+        Coded by 
         <a href="https://fajarlubis.me/" target="_blank" class="text-gray-800"
           >Fajar Lubis.</a
         >
