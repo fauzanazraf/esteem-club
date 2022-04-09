@@ -1,6 +1,12 @@
 <template>
   <div>
-    <div class="h-screen min-h-screen bg-hero bg-no-repeat bg-contain bg-right-bottom">
+    <div
+      class="
+        h-screen
+        min-h-screen
+        bg-hero bg-no-repeat bg-contain bg-right-bottom
+      "
+    >
       <div class="container mx-auto px-4">
         <div class="py-7 flex sm:justify-between items-center">
           <a href="#" aria-label="logo esteem club">
@@ -83,16 +89,16 @@
       <div class="container mx-auto py-5 sm:py-20 px-4">
         <div class="grid lg:grid-cols-2 grid-flow-col">
           <div>
-            <h1 class="font-semibold text-4xl sm:text-6xl mb-11">
+            <h1 class="font-semibold text-5xl sm:text-6xl mb-11">
               100+ collectible NFTs
             </h1>
-            <p class="text-sm md:text-base">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Labore
-              et dolore magna aliqua.
+            <p class="text-sm md:text-base tracking-wide">
+              Esteem Club is a collection of unique art image parody of
+              technical student . We starts with a collection of 100 character.
+              the season in Esteem Club is called "Semester".
             </p>
 
-            <div class="pt-10 lg:pt-20 flex flex-row items-center">
+            <div class="pt-10 lg:pt-16 flex flex-row items-center">
               <a
                 href="https://opensea.io/collection/esteemclub"
                 target="_blank"
@@ -260,6 +266,10 @@
       </div>
     </div>
 
+    <div class="container mx-auto py-10 px-4">
+      Roadmap
+    </div>
+
     <footer style="background-color: #f1f1f1">
       <div class="pt-9">
         <div
@@ -391,7 +401,7 @@
       >
         © 2022 Copyright
         <a href="https://esteem.club/" class="text-gray-800">Esteem Club.</a>
-        Coded by 
+        Coded by
         <a href="https://fajarlubis.me/" target="_blank" class="text-gray-800"
           >Fajar Lubis.</a
         >
