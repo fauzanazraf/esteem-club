@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div class="h-screen bg-hero bg-no-repeat bg-contain bg-right-bottom">
+    <div class="h-screen min-h-screen bg-hero bg-no-repeat bg-contain bg-right-bottom">
       <div class="container mx-auto px-4">
-        <div class="py-7 flex text-center sm:justify-between items-center">
+        <div class="py-7 flex sm:justify-between items-center">
           <a href="#" aria-label="logo esteem club">
             <svg
               width="151"
@@ -253,8 +253,8 @@
     </div>
 
     <div class="bg-blue-500">
-      <div class="text-center py-10">
-        <h1 class="font-semibold text-4xl text-white">
+      <div class="text-center py-8 md:py-10">
+        <h1 class="font-semibold text-2xl md:text-4xl text-white">
           Collect rare items and let's Royal Rumble!
         </h1>
       </div>
