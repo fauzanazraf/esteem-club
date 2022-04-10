@@ -114,7 +114,9 @@
                 "
                 >OpenSea</a
               >
-              <a href="#" class="font-semibold text-sm">See Roadmap</a>
+              <a href="#" -scroll-to="'#roadmap'" class="font-semibold text-sm"
+                >See Roadmap</a
+              >
             </div>
 
             <div class="pt-20 md:pt-16 lg:pt-36 flex flex-col">
@@ -248,7 +250,7 @@
           />
         </div>
         <div>
-          <h1 class="font-semibold text-4xl">Minting 30 NFTs (0/30)</h1>
+          <h1 class="font-semibold text-3xl">Minting 30 NFTs (0/30)</h1>
           <div>
             <input type="email" placeholder="Email" />
             <input type="text" placeholder="OpenSea Account" />
@@ -266,8 +268,42 @@
       </div>
     </div>
 
-    <div class="container mx-auto py-10 px-4">
-      Roadmap
+    <div id="roadmap" class="container text-center mx-auto py-10 px-4">
+      <h1 class="font-semibold text-3xl">Roadmap</h1>
+      <div class="grid sm:grid-cols-3 gap-4 py-8">
+        <div>
+          <h2 class="font-semibold pb-3">Semester 1</h2>
+          <ul>
+            <li>Listing 100 NFTs</li>
+            <li>Floor price 0.001ETH</li>
+            <li>Create Discord community</li>
+            <li>Open collaboration</li>
+            <li>Create access card for holders</li>
+          </ul>
+        </div>
+
+        <div>
+          <h2 class="font-semibold pb-3">Semester 2</h2>
+          <ul>
+            <li>Minting 30 NFTs for holders for only 0.003ETH with Fp</li>
+            <li>Public sale 80 NFTs with Fp 0.005ETH</li>
+            <li>Create website</li>
+            <li>Open collaboration</li>
+            <li>Open custom order</li>
+            <li>Giveaway</li>
+            <li>Discord games</li>
+            <li>Create access card for Holders</li>
+          </ul>
+        </div>
+
+        <div>
+          <h2 class="font-semibold pb-3">Semester 3</h2>
+          <ul>
+            <li>Floor price 0.007ETH</li>
+            <li>Create game P2E (Ongoing)</li>
+          </ul>
+        </div>
+      </div>
     </div>
 
     <footer style="background-color: #f1f1f1">
