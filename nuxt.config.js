@@ -63,6 +63,24 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     '@nuxtjs/robots',
+    [
+      '@nuxtjs/firebase',
+      {
+        config: {
+          apiKey: 'AIzaSyCP_3GGSS9uvx0-vGviDlYakTCsxa5rALY',
+          authDomain: 'esteemclub-4068f.firebaseapp.com',
+          projectId: 'esteemclub-4068f',
+          storageBucket: 'esteemclub-4068f.appspot.com',
+          messagingSenderId: '881869788786',
+          appId: '1:881869788786:web:f470b944a3b127163514eb',
+          measurementId: 'G-LFHGX3FJ5V',
+        },
+        services: {
+          firestore: true,
+        },
+      },
+    ],
+    '@nuxtjs/toast',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -79,5 +97,27 @@ export default {
         autoprefixer: {},
       },
     },
+  },
+
+  toast: {
+    position: 'bottom-center',
+    register: [
+      {
+        name: 'saved',
+        message: 'Data saved',
+        options: {
+          duration: 1000,
+          type: 'success',
+        },
+      },
+      {
+        name: 'error',
+        message: 'Error! cannot save data',
+        options: {
+          duration: 1000,
+          type: 'error',
+        },
+      },
+    ],
   },
 }

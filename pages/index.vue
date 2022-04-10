@@ -12,8 +12,8 @@
           <a href="#" aria-label="logo esteem club">
             <svg
               width="151"
-              height="30"
-              viewBox="0 0 151 30"
+              height="36"
+              viewBox="0 0 151 36"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
             >
@@ -64,6 +64,10 @@
               <path
                 d="M24.8513 7.11106V23.6583C24.8513 24.0266 24.7049 24.3799 24.4445 24.6404C24.184 24.9008 23.8307 25.0472 23.4624 25.0472V25.0472C23.094 25.0472 22.7408 24.9008 22.4803 24.6404C22.2198 24.3799 22.0735 24.0266 22.0735 23.6583V9.88883C22.0735 9.52048 21.9272 9.16721 21.6667 8.90674C21.4062 8.64627 21.053 8.49995 20.6846 8.49995H20.5207C20.1524 8.49995 19.7991 8.64627 19.5386 8.90674C19.2782 9.16721 19.1318 9.52048 19.1318 9.88883V23.6583C19.1318 24.0266 18.9855 24.3799 18.725 24.6404C18.4646 24.9008 18.1113 25.0472 17.7429 25.0472V25.0472C17.3746 25.0472 17.0213 24.9008 16.7609 24.6404C16.5004 24.3799 16.3541 24.0266 16.3541 23.6583V9.88883C16.3541 9.52048 16.2077 9.16721 15.9473 8.90674C15.6868 8.64627 15.3335 8.49995 14.9652 8.49995H8.90962C8.54126 8.49995 8.18799 8.64627 7.92753 8.90674C7.66706 9.16721 7.52073 9.52048 7.52073 9.88883V12.2999C7.52073 12.6683 7.66706 13.0216 7.92753 13.282C8.18799 13.5425 8.54126 13.6888 8.90962 13.6888H11.8354C12.2038 13.6888 12.5571 13.8352 12.8175 14.0956C13.078 14.3561 13.2243 14.7094 13.2243 15.0777V23.658C13.2243 24.0264 13.078 24.3796 12.8175 24.6401C12.5571 24.9006 12.2038 25.0469 11.8354 25.0469H6.13156C5.76321 25.0469 5.40994 24.9006 5.14947 24.6401C4.889 24.3796 4.74268 24.0264 4.74268 23.658V23.658C4.74268 23.2896 4.889 22.9364 5.14947 22.6759C5.40994 22.4154 5.76321 22.2691 6.13156 22.2691H9.05767C9.24006 22.2691 9.42067 22.2332 9.58918 22.1634C9.75769 22.0936 9.9108 21.9913 10.0398 21.8623C10.1687 21.7333 10.271 21.5802 10.3408 21.4117C10.4106 21.2432 10.4466 21.0626 10.4466 20.8802V17.8555C10.4466 17.4871 10.3002 17.1339 10.0398 16.8734C9.7793 16.6129 9.42603 16.4666 9.05767 16.4666H6.13156C5.76321 16.4666 5.40994 16.3203 5.14947 16.0598C4.889 15.7993 4.74268 15.4461 4.74268 15.0777V7.11106C4.74268 6.7427 4.889 6.38943 5.14947 6.12896C5.40994 5.8685 5.76321 5.72217 6.13156 5.72217H23.4624C23.8307 5.72217 24.184 5.8685 24.4445 6.12896C24.7049 6.38943 24.8513 6.7427 24.8513 7.11106V7.11106Z"
                 fill="white"
+              />
+              <path
+                d="M129.811 28.42C130.204 28.4933 130.528 28.69 130.781 29.01C131.034 29.33 131.161 29.6967 131.161 30.11C131.161 30.4833 131.068 30.8133 130.881 31.1C130.701 31.38 130.438 31.6 130.091 31.76C129.744 31.92 129.334 32 128.861 32H125.851V25.02H128.731C129.204 25.02 129.611 25.0967 129.951 25.25C130.298 25.4033 130.558 25.6167 130.731 25.89C130.911 26.1633 131.001 26.4733 131.001 26.82C131.001 27.2267 130.891 27.5667 130.671 27.84C130.458 28.1133 130.171 28.3067 129.811 28.42ZM127.251 27.9H128.531C128.864 27.9 129.121 27.8267 129.301 27.68C129.481 27.5267 129.571 27.31 129.571 27.03C129.571 26.75 129.481 26.5333 129.301 26.38C129.121 26.2267 128.864 26.15 128.531 26.15H127.251V27.9ZM128.661 30.86C129.001 30.86 129.264 30.78 129.451 30.62C129.644 30.46 129.741 30.2333 129.741 29.94C129.741 29.64 129.641 29.4067 129.441 29.24C129.241 29.0667 128.971 28.98 128.631 28.98H127.251V30.86H128.661ZM133.677 26.15V27.9H136.027V29.01H133.677V30.86H136.327V32H132.277V25.01H136.327V26.15H133.677ZM142.349 25.02V26.15H140.489V32H139.089V26.15H137.229V25.02H142.349ZM147.651 30.67H144.871L144.411 32H142.941L145.451 25.01H147.081L149.591 32H148.111L147.651 30.67ZM147.271 29.55L146.261 26.63L145.251 29.55H147.271Z"
+                fill="#831618"
               />
             </svg>
           </a>
@@ -240,22 +244,110 @@
     </div>
 
     <div class="container mx-auto py-10 px-4">
-      <div class="grid grid-cols-2 py-5">
-        <div class="text-right">
-          <img
-            src="../static/featured.webp"
-            alt="featured"
-            width="314"
-            height="360"
-          />
-        </div>
-        <div>
-          <h1 class="font-semibold text-3xl">Minting 30 NFTs (0/30)</h1>
-          <div>
-            <input type="email" placeholder="Email" />
-            <input type="text" placeholder="OpenSea Account" />
-            <input type="text" placeholder="Kode Kartu Pelajar" />
+      <div class="container py-5">
+        <div class="grid lg:grid-cols-3">
+          <div class="invisible xl:visible"></div>
+          <div class="lg:col-span-4 xl:col-span-1">
+            <h1 class="font-semibold text-3xl mb-5">Minting 30 NFTs (0/30)</h1>
+
+            <form>
+              <div class="shadow overflow-hidden sm:rounded-md">
+                <div class="px-4 py-5 bg-white sm:p-6">
+                  <div class="grid grid-cols-6 gap-6">
+                    <div class="col-span-6 sm:col-span-3">
+                      <label
+                        for="email"
+                        class="block text-sm font-medium text-gray-700"
+                        >Email</label
+                      >
+                      <input
+                        id="email"
+                        v-model="email"
+                        class="
+                          mt-1
+                          focus:ring-indigo-500 focus:border-indigo-500
+                          block
+                          w-full
+                          shadow-sm
+                          sm:text-sm
+                          border-gray-300
+                          rounded-md
+                        "
+                        type="email"
+                        placeholder="Email"
+                      />
+                    </div>
+
+                    <div class="col-span-6 sm:col-span-3">
+                      <label
+                        for="opensea-account"
+                        class="block text-sm font-medium text-gray-700"
+                        >OpenSea Account</label
+                      >
+                      <input
+                        id="opensea-account"
+                        v-model="openseaAccount"
+                        class="
+                          mt-1
+                          focus:ring-indigo-500 focus:border-indigo-500
+                          block
+                          w-full
+                          shadow-sm
+                          sm:text-sm
+                          border-gray-300
+                          rounded-md
+                        "
+                        type="text"
+                        placeholder="OpenSea Account"
+                      />
+                    </div>
+
+                    <div class="col-span-6 sm:col-span-4">
+                      <label
+                        for="kode-kartu-pelajar"
+                        class="block text-sm font-medium text-gray-700"
+                        >Kode Kartu Pelajar</label
+                      >
+                      <input
+                        id="kode-kartu-pelajar"
+                        v-model="kodeKartuPelajar"
+                        class="
+                          mt-1
+                          focus:ring-indigo-500 focus:border-indigo-500
+                          block
+                          w-full
+                          shadow-sm
+                          sm:text-sm
+                          border-gray-300
+                          rounded-md
+                        "
+                        type="text"
+                        placeholder="Kode Kartu Pelajar"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div class="px-4 py-3 bg-gray-50 text-right sm:px-6">
+                  <button
+                    type="submit"
+                    class="
+                      font-semibold
+                      text-white text-sm
+                      px-6
+                      py-3
+                      rounded-md
+                      bg-blue-500
+                      active:bg-blue-600
+                    "
+                    @click.prevent="send"
+                  >
+                    Mint Now
+                  </button>
+                </div>
+              </div>
+            </form>
           </div>
+          <div class="invisible xl:visible"></div>
         </div>
       </div>
     </div>
@@ -449,5 +541,33 @@
 <script>
 export default {
   name: 'IndexPage',
+  data: () => ({
+    email: '',
+    openseaAccount: '',
+    kodeKartuPelajar: '',
+  }),
+  methods: {
+    send() {
+      try {
+        // const ref = this.$fire.firestore
+        //   .collection('mint30nfts')
+        //   .doc(this.email)
+
+        // console.log(ref)
+        // console.log(this.$fire.firestore.collection('mint30nfts'))
+
+        this.$fire.firestore.collection('mint30nfts').doc(this.email).set({
+          email: this.email,
+          openseaAccount: this.openseaAccount,
+          kodeKartuPelajar: this.kodeKartuPelajar,
+        })
+
+        this.$toast.global.saved()
+      } catch (error) {
+        console.log(error)
+        this.$toast.global.error()
+      }
+    },
+  },
 }
 </script>
