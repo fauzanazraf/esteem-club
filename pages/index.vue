@@ -248,7 +248,7 @@
         <div class="grid lg:grid-cols-3">
           <div class="invisible xl:visible"></div>
           <div class="lg:col-span-4 xl:col-span-1">
-            <h1 class="font-semibold text-3xl mb-5">Minting 30 NFTs (0/30)</h1>
+            <h1 class="font-semibold text-3xl mb-5">Minting 30 NFTs</h1>
 
             <form>
               <div class="shadow overflow-hidden sm:rounded-md">
@@ -539,12 +539,15 @@
 </template>
 
 <script>
+import { uuid } from 'vue-uuid'
+
 export default {
   name: 'IndexPage',
   data: () => ({
     email: '',
     openseaAccount: '',
     kodeKartuPelajar: '',
+    uuidv4: uuid.v4(),
   }),
   methods: {
     send() {
@@ -556,7 +559,7 @@ export default {
         // console.log(ref)
         // console.log(this.$fire.firestore.collection('mint30nfts'))
 
-        this.$fire.firestore.collection('mint30nfts').doc(this.email).set({
+        this.$fire.firestore.collection('mint30nfts').doc(this.uuidv4).set({
           email: this.email,
           openseaAccount: this.openseaAccount,
           kodeKartuPelajar: this.kodeKartuPelajar,
